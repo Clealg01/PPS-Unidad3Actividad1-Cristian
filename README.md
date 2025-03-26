@@ -6,7 +6,6 @@
   - [Índice](#índice)
   - [Creación de entorno de maquinas vulnerables](#creación-de-entorno-de-maquinas-vulnerables)
     - [¿Cómo preparamos nuestro entorno?](#cómo-preparamos-nuestro-entorno)
-  - [Imagen 3: Máquinas vulnerables en funcionamiento](#imagen-3-máquinas-vulnerables-en-funcionamiento)
   - [Creación de entorno de pruebas](#creación-de-entorno-de-pruebas)
     - [Repositorio Base](#repositorio-base)
     - [Pasos para Configurar el Entorno](#pasos-para-configurar-el-entorno)
@@ -174,6 +173,7 @@ volumes:
   <img src="./images/maquinas_vulnerables_en_funcionamiento.png" alt="Máquinas vulnerables en funcionamiento">
 </p>
 <p align="center"><em>Imagen 3: Máquinas vulnerables en funcionamiento</em></p>
+
 ---
 
 ## Creación de entorno de pruebas
